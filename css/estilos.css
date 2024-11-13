@@ -1,0 +1,13 @@
+/*Variaveis de Cores*/
+:root{
+    --cor-primaria:#003366;
+    --cor-secundaria:#FFD700;
+    --cor-texto:#333;
+    --cor-bg:#F9F9F9;
+    --cor-texto-banner:#003366;
+    --cor-hover:#0056B3;
+    --cor-sombra:rgba(0, 0, 0, 0.1);
+    --cor-sombra-hover:rgba(0, 0, 0, 0.3);
+}
+/*css Reset*/
+*{
